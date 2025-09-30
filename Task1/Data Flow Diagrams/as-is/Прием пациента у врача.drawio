@@ -1,0 +1,70 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Страница — 1" id="ZVLgjHAiw-YnzbZrcD1T">
+    <mxGraphModel dx="2466" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1Jl4Y1PddtGzV04d7qtc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryX=0;entryY=0;entryDx=0;entryDy=42.5;entryPerimeter=0;exitX=0.675;exitY=0.344;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1Jl4Y1PddtGzV04d7qtc-3" target="1Jl4Y1PddtGzV04d7qtc-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Jl4Y1PddtGzV04d7qtc-2" value="Скачивание Excel&lt;div&gt;файла: Журнал приема пациентов&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1Jl4Y1PddtGzV04d7qtc-1" vertex="1" connectable="0">
+          <mxGeometry x="-0.1333" y="-1" relative="1" as="geometry">
+            <mxPoint x="15" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Doctor" c4Type="Person" c4Description="Специалист-медик" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="1Jl4Y1PddtGzV04d7qtc-3">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="370" y="690" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1Jl4Y1PddtGzV04d7qtc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1Jl4Y1PddtGzV04d7qtc-5" target="1Jl4Y1PddtGzV04d7qtc-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irGov0Q6klIUSQ1xiJtC-1" value="Прием у врача" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1Jl4Y1PddtGzV04d7qtc-4">
+          <mxGeometry x="-0.09" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Patient" c4Type="Person" c4Description="Пациент" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="1Jl4Y1PddtGzV04d7qtc-5">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="-30" y="690" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1Jl4Y1PddtGzV04d7qtc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1Jl4Y1PddtGzV04d7qtc-6" target="1Jl4Y1PddtGzV04d7qtc-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jl4Y1PddtGzV04d7qtc-22" value="Скачивание Excel&lt;div&gt;файла: Данные (карточка) пациента&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1Jl4Y1PddtGzV04d7qtc-21" vertex="1" connectable="0">
+          <mxGeometry x="0.0923" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Jl4Y1PddtGzV04d7qtc-6" value="Общий диск" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="710" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jl4Y1PddtGzV04d7qtc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.015;entryY=0.821;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="1Jl4Y1PddtGzV04d7qtc-3" target="1Jl4Y1PddtGzV04d7qtc-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jl4Y1PddtGzV04d7qtc-11" value="Скачивание Excel файла - Реестр анализов за день" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1Jl4Y1PddtGzV04d7qtc-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.1474" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Jl4Y1PddtGzV04d7qtc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.145;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;" parent="1" source="1Jl4Y1PddtGzV04d7qtc-3" target="1Jl4Y1PddtGzV04d7qtc-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="890" />
+              <mxPoint x="1119" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Jl4Y1PddtGzV04d7qtc-13" value="Загрузка Excel&lt;div&gt;файла: Данные (карточка) пациента (+диагноз)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1Jl4Y1PddtGzV04d7qtc-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.204" y="-4" relative="1" as="geometry">
+            <mxPoint x="46" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
