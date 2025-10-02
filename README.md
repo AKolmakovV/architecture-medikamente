@@ -14,3 +14,8 @@ Landscape системы (as-is)
 
 
 ![./Task2/c4_context_diagram.png](./Task2/c4_context_diagram.png)
+
+
+## Задание 3. Оценка Data Encryption at Rest and In Transit
+
+["./Task3/ReadMe.md"](./Task3/ReadMe.md)
