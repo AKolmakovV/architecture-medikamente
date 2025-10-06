@@ -18,4 +18,8 @@ Landscape системы (as-is)
 
 ## Задание 3. Оценка Data Encryption at Rest and In Transit
 
-["./Task3/ReadMe.md"](./Task3/ReadMe.md)
+["./Task3/README.md"](./Task3/README.md)
+
+## Задание 4. Оценка узких мест при миграции
+
+["./Task4/README.md"](./Task4/README.md)
